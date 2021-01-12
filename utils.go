@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 	"strings"
-	"github.com/weilaihui/weilaihui_goconfig/config"
+	"github.com/Elemlee/weilaihui_goconfig/config"
 
 )
 
